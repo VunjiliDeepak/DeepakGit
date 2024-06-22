@@ -15,7 +15,7 @@ jobs:
     - name: checkout Node 
       uses: actions/setup-node@v4
       with:
-        node-version: lts/*
+        node-version: 20.12.2
     - name: Install dependencies
       run: npm ci
     - name: Install Playwright Browsers
