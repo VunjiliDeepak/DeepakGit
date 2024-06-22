@@ -8,7 +8,7 @@ on:
 jobs:
   Playwrighttest:
     timeout-minutes: 60
-    runs-on: Windows-latest #ubuntu-latest, #macos-latest
+    runs-on: ubuntu-latest #windows-latest, #macos-latest
     steps:
     - name: checkout Repository
       uses: actions/checkout@v4
