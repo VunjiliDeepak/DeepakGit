@@ -10,13 +10,13 @@ test('has title', async ({ page }) => {
 
 test('get started link', async ({ page }) => {
 
-  await page.on('request', request=>
+ /* await page.on('request', request=>
     console.log('>>',request.method(),request.url())
   )
 
   await page.on('response', response=>
     console.log('<<',response.json(),response.status())
-  )
+  )*/
   await page.goto('https://playwright.dev/');
 
   // Click the get started link.
