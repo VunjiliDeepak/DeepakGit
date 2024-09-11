@@ -1,0 +1,217 @@
+>> GET https://playwright.dev/
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1410,
+  [Symbol(trigger_async_id_symbol)]: 1400,
+  [Symbol(kResourceStore)]: undefined
+} 200
+>> GET https://playwright.dev/js/redirection.js
+>> GET https://playwright.dev/assets/css/styles.2cb9826f.css
+>> GET https://playwright.dev/assets/js/runtime~main.10016629.js
+>> GET https://playwright.dev/assets/js/main.83d94b56.js
+>> GET https://playwright.dev/img/playwright-logo.svg
+>> GET https://playwright.dev/img/logos/Browsers.png
+>> GET https://playwright.dev/img/logos/VSCode.png
+>> GET https://playwright.dev/img/logos/Bing.png
+>> GET https://playwright.dev/img/logos/Outlook.png
+>> GET https://playwright.dev/img/logos/DHotstar.jpg
+>> GET https://playwright.dev/img/logos/MUI.png
+>> GET https://playwright.dev/img/logos/ING.png
+>> GET https://playwright.dev/img/logos/Adobe2.png
+>> GET https://playwright.dev/img/logos/ReactNavigation.png
+>> GET https://playwright.dev/img/logos/accessibilityinsights.png
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1706,
+  [Symbol(trigger_async_id_symbol)]: 1678,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1872,
+  [Symbol(trigger_async_id_symbol)]: 1748,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1891,
+  [Symbol(trigger_async_id_symbol)]: 1764,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1910,
+  [Symbol(trigger_async_id_symbol)]: 1795,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2078,
+  [Symbol(trigger_async_id_symbol)]: 1946,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2360,
+  [Symbol(trigger_async_id_symbol)]: 2326,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2527,
+  [Symbol(trigger_async_id_symbol)]: 2506,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2617,
+  [Symbol(trigger_async_id_symbol)]: 2557,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2820,
+  [Symbol(trigger_async_id_symbol)]: 2656,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2839,
+  [Symbol(trigger_async_id_symbol)]: 2684,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2858,
+  [Symbol(trigger_async_id_symbol)]: 2712,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2877,
+  [Symbol(trigger_async_id_symbol)]: 2740,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2896,
+  [Symbol(trigger_async_id_symbol)]: 2768,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 3118,
+  [Symbol(trigger_async_id_symbol)]: 2926,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 3255,
+  [Symbol(trigger_async_id_symbol)]: 3156,
+  [Symbol(kResourceStore)]: undefined
+} 200
+>> GET https://playwright.dev/assets/js/1df93b7f.8eca5d40.js
+>> GET https://playwright.dev/assets/js/a7456010.8388a0a2.js
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 3619,
+  [Symbol(trigger_async_id_symbol)]: 3573,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 3638,
+  [Symbol(trigger_async_id_symbol)]: 3589,
+  [Symbol(kResourceStore)]: undefined
+} 200
+>> GET https://playwright.dev/assets/js/5e95c892.2ce06d28.js
+>> GET https://playwright.dev/assets/js/aba21aa0.3d38dff9.js
+>> GET https://playwright.dev/assets/js/a7bd4aaa.4ac75b2e.js
+>> GET https://playwright.dev/assets/js/0058b4c6.7b946b06.js
+>> GET https://playwright.dev/assets/js/a94703ab.eadc90a2.js
+>> GET https://playwright.dev/assets/js/17896441.8c17dc9a.js
+>> GET https://playwright.dev/assets/js/4cf51b27.46eaeaf7.js
+>> GET https://playwright.dev/assets/js/e0719818.5be244e8.js
+>> GET https://playwright.dev/assets/js/d2436a2b.ba9699cc.js
+>> GET https://playwright.dev/assets/js/083f60f3.f6a595bc.js
+>> GET https://playwright.dev/assets/js/1df93b7f.8eca5d40.js
+>> GET https://playwright.dev/assets/js/a7456010.8388a0a2.js
+>> GET https://playwright.dev/assets/js/90f396e5.48a614ab.js
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4427,
+  [Symbol(trigger_async_id_symbol)]: 4407,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4553,
+  [Symbol(trigger_async_id_symbol)]: 4457,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4886,
+  [Symbol(trigger_async_id_symbol)]: 4676,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4905,
+  [Symbol(trigger_async_id_symbol)]: 4707,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4924,
+  [Symbol(trigger_async_id_symbol)]: 4735,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4943,
+  [Symbol(trigger_async_id_symbol)]: 4760,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4962,
+  [Symbol(trigger_async_id_symbol)]: 4788,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 4981,
+  [Symbol(trigger_async_id_symbol)]: 4813,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5384,
+  [Symbol(trigger_async_id_symbol)]: 5011,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5403,
+  [Symbol(trigger_async_id_symbol)]: 5048,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5422,
+  [Symbol(trigger_async_id_symbol)]: 5078,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5441,
+  [Symbol(trigger_async_id_symbol)]: 5103,
+  [Symbol(kResourceStore)]: undefined
+} 200
+<< Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5460,
+  [Symbol(trigger_async_id_symbol)]: 5128,
+  [Symbol(kResourceStore)]: undefined
+} 200
